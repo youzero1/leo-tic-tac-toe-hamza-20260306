@@ -1,0 +1,8 @@
+node_modules
+.next
+database.sqlite
+*.sqlite
+.git
+.gitignore
+README.md
+.env.local
